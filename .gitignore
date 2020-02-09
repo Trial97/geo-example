@@ -3,3 +3,5 @@
 notebooks/map
 notebooks/map.osm
 notebooks/romania-latest.osm
+
+notebooks/.ipynb_checkpoints
