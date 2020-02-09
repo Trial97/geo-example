@@ -1,0 +1,5 @@
+# Specify filepatterns you want git to ignore.
+
+notebooks/map
+notebooks/map.osm
+notebooks/romania-latest.osm
